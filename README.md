@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repository
+# Hello !
+Coursera test repository - Module 2 assignment
